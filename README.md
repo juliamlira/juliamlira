@@ -1,6 +1,6 @@
-# # Full Stack Developer
+# # Product Management | Computer Science @ USF
 
-## Hello! I'm Julia Lira 
+## Hello! I'm Julia Maciel Lira Cavalcanti 
 
 
 ### Aspiring Product Manager | Computer Science Student @ USF | Building Products with Purpose
